@@ -42,3 +42,12 @@ LINQ-запросы (в классе CafeManager):
 ### Тестирование
 
 Скриншоты результата работы программы
+
+
+<img width="642" height="601" alt="photo_2026-05-07_21-53-53" src="https://github.com/user-attachments/assets/a1e8e1eb-a490-4046-9886-352eab3d011b" />
+<img width="602" height="599" alt="photo_2026-05-07_21-53-53 (5)" src="https://github.com/user-attachments/assets/3ad1d9ab-af57-49d8-8694-58836d7ba226" />
+<img width="545" height="501" alt="photo_2026-05-07_21-53-53 (4)" src="https://github.com/user-attachments/assets/9294bfb9-6ab0-4492-811e-5b0dfe228f48" />
+<img width="629" height="684" alt="photo_2026-05-07_21-53-53 (3)" src="https://github.com/user-attachments/assets/3121b2f5-3de0-48c8-b4c8-802268cee20a" />
+<img width="642" height="628" alt="photo_2026-05-07_21-53-53 (2)" src="https://github.com/user-attachments/assets/9c4dbffa-7e16-473b-b2d2-785e87833c3d" />
+
+
